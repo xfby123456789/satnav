@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "S",
+    "E",
+    "C"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:redstone"
+    },
+    "E": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "C": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "id": "create_satnav:connector",
+    "count": 1
+  }
+}

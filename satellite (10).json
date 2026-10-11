@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "active=false": { "model": "create_satnav:block/satellite" },
+    "active=true": { "model": "create_satnav:block/satellite_active" }
+  }
+}
